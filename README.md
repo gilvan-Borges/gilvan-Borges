@@ -11,7 +11,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
-<a href="https://gilvandev.com/" target="_blank">Saiba mais.</a>
+
 
 ###
 
@@ -22,6 +22,7 @@
   <a href="https://www.linkedin.com/in/gilvan-borges-0b70582bb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://gilvandev.com/" target="_blank">Portifolio.</a>
 </div>
 
 ###
