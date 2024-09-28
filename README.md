@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://gilvandev.com/" target="_blank" >
-    <img src="https://gilvandev.com/img/icons8-internet-96.png" height="35"  alt="linkedin logo"  />
+   <p>GilvanDev</p>
   </a>
   
   <a href="https://www.linkedin.com/in/gilvan-borges-0b70582bb/" target="_blank">
