@@ -1,4 +1,4 @@
-<h1 align="center">gilvan-Borges gilvan-Borges</h1>
+<h1 align="center"><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg](https://media.licdn.com/dms/image/v2/D5616AQE49ZzdxMtn0w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727625786418?e=1733356800&v=beta&t=_rG-sR22drf092q4DpsupY_GHFd9AAYP5NPFvGHduOw)" width="40" height="40"/> </a></h1>
 <h3 align="center">Desenvolvedor Fullstack Web Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gilvan-borges&label=Profile%20views&color=0e75b6&style=flat" alt="gilvan-borges" /> </p>
