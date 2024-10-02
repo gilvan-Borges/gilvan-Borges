@@ -1,4 +1,4 @@
-<h1 align="center"><a> <img src="https://gilvandev.com/img/banner.jpg" width="150" height="50"/> </a></h1>
+<h1 align="center"><a> <img src="https://gilvandev.com/img/banner.jpg" width="100%" height="200"/> </a></h1>
 <h3 align="center">Desenvolvedor Fullstack Web Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gilvan-borges&label=Profile%20views&color=0e75b6&style=flat" alt="gilvan-borges" /> </p>
