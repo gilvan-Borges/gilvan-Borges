@@ -1,8 +1,10 @@
 <h1 align="center"><a> <img src="https://gilvandev.com/img/banner.jpg" width="100%" height="200"/> </a></h1>
-<h3 align="center">Desenvolvedor Fullstack Web Java</h3>
 
 # 💫 About Me:
-🌱 Centro Universitário UniFatecie ANÁLISE E DESENV DE SISTEMAS<br><br>👨‍💻 Todos os meus projetos estão disponíveis em https://gilvandev.com/<br><br>📫 Como entrar em contato comigo gilvan2022borges@gmail.com
+🌱 Centro Universitário UniFatecie ANÁLISE E DESENV DE SISTEMAS<br>
+👨‍💻 Coti Informática <br>
+👨‍💻 Todos os meus projetos estão disponíveis em https://gilvandev.com/<br>
+📫 Como entrar em contato comigo gilvan2022borges@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gilvanborges20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gilvan-borges/) 
