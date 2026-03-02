@@ -102,7 +102,7 @@ portfolio: gilvandev.com
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilvan-Borges&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/gilvan-Borges)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilvan-Borges&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500)](https://github.com/gilvan-Borges)
 
 </div>
 
