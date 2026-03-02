@@ -98,6 +98,14 @@ portfolio: gilvandev.com
 
 </div>
 
+<br>
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilvan-Borges&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/gilvan-Borges)
+
+</div>
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28"> &nbsp;Contribuições
