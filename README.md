@@ -102,6 +102,10 @@ portfolio: gilvandev.com
 
 <div align="center">
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilvan-Borges&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=500&hide_progress=false)](https://github.com/gilvan-Borges)
+
+<br>
+
 [![Repos por Linguagem](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gilvan-Borges&theme=tokyonight)](https://github.com/gilvan-Borges)
 &nbsp;
 [![Commits por Linguagem](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gilvan-Borges&theme=tokyonight)](https://github.com/gilvan-Borges)
