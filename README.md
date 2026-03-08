@@ -6,7 +6,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gilvandev.com-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](https://gilvandev.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gilvanborges.com.br-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](https://gilvanborges.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gilvan_Borges-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvanborges/)
 [![Instagram](https://img.shields.io/badge/Instagram-@gilvanborges20-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilvanborges20/)
 [![Gmail](https://img.shields.io/badge/Email-gilvan2022borges@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilvan2022borges@gmail.com)
