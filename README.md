@@ -21,7 +21,7 @@ formação: Análise e Desenvolvimento de Sistemas - UniFatecie
 formação_prática: Coti Informática
 foco: Java · Spring Boot · Angular
 cloud: AWS · Azure · Docker
-portfolio: gilvandev.com
+portfolio: gilvanborges.com.br
 ```
 
 > Desenvolvedor Full Stack apaixonado por criar soluções robustas e escaláveis.
