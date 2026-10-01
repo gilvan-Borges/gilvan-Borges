@@ -1,125 +1,73 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header"/>
+<img width="100%" src="./assets/capa.svg" alt="Gilvan Borges · Software Engineer · Java, Spring Boot, Microsserviços, APIs REST"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Ol%C3%A1%2C+eu+sou+Gilvan+Borges+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-gilvanborges.com.br-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](https://gilvanborges.com.br/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gilvan_Borges-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvanborges/)
-[![Instagram](https://img.shields.io/badge/Instagram-@gilvanborges20-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilvanborges20/)
-[![Gmail](https://img.shields.io/badge/Email-gilvan2022borges@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilvan2022borges@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gilvanborges-142239?style=for-the-badge&logo=linkedin&logoColor=D98A3D)](https://www.linkedin.com/in/gilvanborges/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-gilvanborges.com.br-142239?style=for-the-badge&logo=firefox&logoColor=D98A3D)](https://gilvanborges.com.br/)
+[![Email](https://img.shields.io/badge/Email-gilvan2022borges@gmail.com-142239?style=for-the-badge&logo=gmail&logoColor=D98A3D)](mailto:gilvan2022borges@gmail.com)
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="28"> &nbsp;Sobre mim
+## Sobre mim
+
+Passei anos na construção civil antes de escrever a primeira linha de código. Lá aprendi que obra boa começa na fundação, segue a planta e passa por inspeção antes de ser entregue. Levo isso para o software.
+
+Desde jan/2025 sou desenvolvedor na **Vibetex**. Cuido de sistemas de ponta a ponta: do levantamento de requisitos à arquitetura, do deploy ao suporte em produção. Hoje me preparo para atuar como **arquiteto de software Java**.
 
 ```yaml
-nome: Gilvan Borges
-formação: Análise e Desenvolvimento de Sistemas - UniFatecie
-formação_prática: Coti Informática
-foco: Java · Spring Boot · Angular
-cloud: AWS · Azure · Docker
-portfolio: gilvanborges.com.br
+hoje:        Software Engineer · Vibetex
+rumo_a:      Arquitetura de Software (DDD, hexagonal, sistemas distribuídos)
+back_end:    Java 21 · Spring Boot · RabbitMQ · PostgreSQL · Flyway
+qualidade:   JUnit 5 · Testcontainers · CI/CD com GitHub Actions
+front_mobile: Angular · Flutter
+formação:    ADS (UniFatecie) · Java WebDeveloper (COTI Informática)
 ```
 
-> Desenvolvedor Full Stack apaixonado por criar soluções robustas e escaláveis.
-> Foco em **Java/Spring Boot** no back-end e **Angular** no front-end, com experiência em cloud e conteinerização.
+## Projetos em destaque
 
----
+| Projeto | O que mostra |
+|---|---|
+| [**apiSuporte**](https://github.com/FightConnect2025/apiSuporte) | Microsserviço de tickets e SLA. Java 21, Spring Boot, PostgreSQL, JWT. Publica eventos no RabbitMQ. |
+| [**fightconnect-worker-notifications**](https://github.com/FightConnect2025/fightconnect-worker-notifications) | Worker assíncrono que consome o RabbitMQ e envia e-mail e push (Firebase), com ack manual, retry e DLQ. |
+| [**formacao-coti**](https://github.com/gilvan-Borges/formacao-coti) | 4 APIs Spring Boot da formação COTI: JWT, MySQL, PostgreSQL, MongoDB e mensageria. |
+| [**projeto-aspnet-aws**](https://github.com/gilvan-Borges/projeto-aspnet-aws) | API ASP.NET Core com cache em memória e pipeline na AWS. |
+| [**kerodocerj**](https://github.com/gilvan-Borges/kerodocerj) | Landing page real de cliente, com deploy automático no GitHub Pages. |
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+## Stack
 
 <div align="center">
 
-#### Back-end
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-
-#### Front-end
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-%235A0FC8.svg?style=for-the-badge&logo=pwa&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-
-#### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### Cloud & DevOps
-![Linux](https://img.shields.io/badge/Linux-VPS-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-#### Ferramentas
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-0A111E?style=flat-square&logo=openjdk&logoColor=D98A3D)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A111E?style=flat-square&logo=springboot&logoColor=D98A3D)
+![Spring Security](https://img.shields.io/badge/Spring_Security-0A111E?style=flat-square&logo=springsecurity&logoColor=D98A3D)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0A111E?style=flat-square&logo=rabbitmq&logoColor=D98A3D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A111E?style=flat-square&logo=postgresql&logoColor=D98A3D)
+![Flyway](https://img.shields.io/badge/Flyway-0A111E?style=flat-square&logo=flyway&logoColor=D98A3D)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A111E?style=flat-square&logo=mongodb&logoColor=D98A3D)
+![Redis](https://img.shields.io/badge/Redis-0A111E?style=flat-square&logo=redis&logoColor=D98A3D)
+<br>
+![Docker](https://img.shields.io/badge/Docker-0A111E?style=flat-square&logo=docker&logoColor=D98A3D)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A111E?style=flat-square&logo=githubactions&logoColor=D98A3D)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-0A111E?style=flat-square&logo=testcontainers&logoColor=D98A3D)
+![Linux](https://img.shields.io/badge/Linux_VPS-0A111E?style=flat-square&logo=linux&logoColor=D98A3D)
+![AWS](https://img.shields.io/badge/AWS-0A111E?style=flat-square&logo=amazonwebservices&logoColor=D98A3D)
+![Azure](https://img.shields.io/badge/Azure-0A111E?style=flat-square&logo=microsoftazure&logoColor=D98A3D)
+<br>
+![Angular](https://img.shields.io/badge/Angular-0A111E?style=flat-square&logo=angular&logoColor=D98A3D)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A111E?style=flat-square&logo=typescript&logoColor=D98A3D)
+![Flutter](https://img.shields.io/badge/Flutter-0A111E?style=flat-square&logo=flutter&logoColor=D98A3D)
+![Dart](https://img.shields.io/badge/Dart-0A111E?style=flat-square&logo=dart&logoColor=D98A3D)
 
 </div>
 
----
+## Estudando agora
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Stats
+Trilha rumo a arquiteto Java: **OCP Java SE 21**, *Effective Java*, Spring Boot por dentro e, na sequência, DDD e arquitetura hexagonal num repositório-vitrine com diagramas C4 e ADRs.
+
+<div align="center">
 
 <br>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gilvan-Borges&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gilvan-Borges&locale=pt_BR&hide_border=true&background=0A111E&ring=D98A3D&fire=D98A3D&currStreakNum=F2EDE4&sideNums=F2EDE4&currStreakLabel=D98A3D&sideLabels=A9B4C6&dates=A9B4C6&stroke=142239)](https://git.io/streak-stats)
 
 </div>
-
-<br>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gilvan-Borges&theme=tokyo-night&hide_border=true&area=true)](https://github.com/gilvan-Borges)
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilvan-Borges&theme=tokyonight)](https://github.com/gilvan-Borges)
-
-<br>
-
-[![Repos por Linguagem](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gilvan-Borges&theme=tokyonight)](https://github.com/gilvan-Borges)
-&nbsp;
-[![Commits por Linguagem](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gilvan-Borges&theme=tokyonight)](https://github.com/gilvan-Borges)
-
-</div>
-
----
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=gilvan-Borges&color=6366F1&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)](https://github.com/gilvan-Borges)
-
-**Obrigado por visitar meu perfil!** 🤝
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer"/>
